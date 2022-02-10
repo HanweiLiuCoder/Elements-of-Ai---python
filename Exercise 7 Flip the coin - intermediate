@@ -1,0 +1,5 @@
+def count11(seq):
+   # define this function and return the number of occurrences as a number
+   return -1
+
+print(count11([0, 0, 1, 1, 1, 0])) # this should print 2
